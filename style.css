@@ -132,7 +132,7 @@ body{
 }
 .card-img-top{
        transform: scale(1);
-       transition:. 3s ease-in-out;
+       transition:.3s ease-in-out;
 }
 .card-img-top:hover{
       transform: scale(1.2);
