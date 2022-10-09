@@ -121,7 +121,12 @@ body{
       height: 160px;
       width: 100%;
 
-}  
+}
+.clsabout{
+    font-family: 'cookie';
+
+   color: #d6883;
+  }
 .clsabout1{
       font-size: 15px;
       color:#adadad;
