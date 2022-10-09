@@ -17,16 +17,16 @@ body{
 
 .navbar-brand{
       color: #652A0E;
-      font-size: 28px;
+      font-size: 25px;
     font-family: 'cookie';
 }
 .navbar-brand:hover{
-        color: rgb(261,141, 161);
+        color: #d6883f;
         font-size: 30px;
         transition: 0.3s ease-in-out;
 }
 .cls0{
-      Color: #652A0E;
+      Color: white;
     font-family: 'cookie';
 }
 .cls1{
