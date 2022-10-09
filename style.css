@@ -16,8 +16,9 @@ body{
 
 
 .navbar-brand{
-      color: rgb(261, 141, 161);
-      font-size: 26px;
+      color: #652A0E;
+      font-size: 28px;
+    font-family: 'cookie';
 }
 .navbar-brand:hover{
         color: rgb(261,141, 161);
