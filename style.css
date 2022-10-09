@@ -138,3 +138,8 @@ body{
       transform: scale(1.2);
 
 }
+
+.card1{
+     overflow: hidden;
+
+}
