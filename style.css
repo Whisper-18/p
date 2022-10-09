@@ -126,4 +126,15 @@ body{
       font-size: 15px;
       color:#adadad;
 }
+.card-img-top{
+ height: 160px;
 
+}
+.card-img-top{
+       transform: scale(1);
+       transition:. 3s ease-in-out;
+}
+.card-img-top:hover{
+      transform: scale(1.2);
+
+}
