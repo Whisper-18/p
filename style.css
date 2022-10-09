@@ -16,8 +16,10 @@ body{
 
 
 .navbar-brand{
-      color: rgb(231, 141, 141);
+      color: rgb(261, 141, 141);
       font-size: 26px;
 }
-
-
+.navbar-brand:hover{
+        color: rgb(261,141, 141);
+        font-size: 30px;
+}
