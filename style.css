@@ -22,4 +22,5 @@ body{
 .navbar-brand:hover{
         color: rgb(261,141, 161);
         font-size: 30px;
+        transition: 0.3s ease-in-out;
 }
